@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aviacion-a72e7",
+  "private_key_id": "cea710a9e38bf19ea28c2ef7b62d5661a3630c5a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGpPgnegyu1Jdg\nCrklc2OGYhprHiTDb8r2SdAAYTsibf733dggdfCbXGzRqyMXIs2Y3rc3i1qXPtqR\ni9Sc/gQfsUfOU9TUCRn6M1vMZQ9pmjlrPp2AVayj3z/GfSFoKxI1ABX7glhZUgVs\nyNC9VJT7tph3lyfM53gIU164KB38V0rlNDwNsaT+iMH/rOb4wu9iwcYzgZaFohwc\nyYdzSErupYP7L3lv2kFftAauutVsRRhhxvdBa6HaYQlWCsrPU4qYsK+dn8RVB2Cx\nZ8fZFXEUPtlVdpfnDUplyCF70WvQ/RPjR3vwKf12J7PObcnuxc0J7Iuc6zGggWIK\ndG1wiJL7AgMBAAECggEAScpUaI29EmDkjofNOS1BBlWBDNOYwoTPt2e5/bogtmx3\n72mYdI57P6s4vTY+hcSm7SemldqNX2u406JG676sl31KeEnJ4K402S2k5yuPayIg\nPEd5SIgK5qDy1u/6rfB6BfgvMku8OAnw+/UpHXvDEDJHNv2Oil5dx3H42J4GbYrz\nzngQzuK7YAAiW71wH9KhDhybrwFPX3a75q6qNi3rBeTk6iC9lep8dZ7b700H53A9\nPSbOCLMpK+UM8/ylDpv2EmDfvOjMzO3rRYlDzlmB1gxgaPcFAo2wX4clx5CoP7HJ\nmq8QNvk9L7MEiT01nXVgx/Y/Qs2l3RkcKHS3Dc5KIQKBgQDyOfWia77FxMtLa/py\nH7OU0vTfp1p9wpODWTrvCTjjdnGNs8D1fHqd9o2KXwf47IjAQN4w6LDEnrSEOtXw\n0jSbSop8FADAxGXwLdYP5XtG1iuJzJNs03Shm2lRclK0u4zBGfBHMh4bz/3Gvaio\n4xga6sKOynJdA0t6beZ2djy5iwKBgQDR8Jh717rXtbO42NQDScc9XOX7ciMuVOU8\nQ98tQ08lpPqXaGwnB1zhGqYTLPSvrUxDSxDDaE/WtoDRsLhbpGwfOIpZivuFmkFY\nwS83WdoIxApuR0mBZG6j4KMAodwtz4VR2HyJgen6Tv+kBahm+iuVvJ926Bp1FVm6\ndmfXNyVaUQKBgQDBhDiPyFCjI7Pez6dIYbdQ4LCttb//1OGRAEqrCc0fPFNACCnS\ndd5oML+nmoB+CErAfZKFtID0tG43beHaAbXxkr3MnxZy6vUdyyDHlmjEkPo7nurw\n+IanTcf4P8N/jI7I/vYNiyauxZ5TltYWB0gMyR0igu6XDLjSWNbUMWYWPQKBgGVe\nIoJJm/Hjzi+Gongj+4vpezJ53frVCwqaSvxz75dhnY3V4cLGj1Yxo9bGci8RIi2r\n5SA1Ebe+z1xwU9QMBBjfGA48SU4tOTg9ryquu9RXtCGjUh6j+7gtEwePH90OwnTO\nbvOGQw+VbWIpSTLPwJPAS88CKyQ1dunNmj4UZnjBAoGAIObEscvUXAlZEga51z7U\nfFJhOXgfCeHKDZjtEDZbYCm7LWAkIVR9jSYF+0XEPi4QAblmLUQCLPdP6KGkIpHE\nouVrAPskKyaJ2KmmEQmLr02V2bzeAPpIkh/I0uGlH1HfI+z8MvJWqtdE+rEmJmuO\nPjfU5FbbhdmLSt6zJ5s10wI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uq0ie@aviacion-a72e7.iam.gserviceaccount.com",
+  "client_id": "108185177169847694234",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uq0ie%40aviacion-a72e7.iam.gserviceaccount.com"
+}
